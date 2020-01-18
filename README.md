@@ -5,4 +5,6 @@ The main objective of the Final Proyect for the subject Programming for bioinfor
 
 I tried to upload all the files separately so that they could be seen without downloading them, but one of them ('prosite.dat') was too big to upload.
 
-The programme has been developed in Python 3 and it has been designed to be executed in command line.
+The programme has been developed in Python 3 and it has been designed to be executed in command line (Ubuntu).
+
+The programme import these modules: os, sys, subprocess, Bio, pandas and re. It would also use blasp and muscle. So they should be installed in order to get a good running.
