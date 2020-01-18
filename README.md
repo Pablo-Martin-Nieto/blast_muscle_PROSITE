@@ -8,3 +8,5 @@ I tried to upload all the files separately so that they could be seen without do
 The programme has been developed in Python 3 and it has been designed to be executed in command line (Ubuntu).
 
 The programme import these modules: os, sys, subprocess, Bio, pandas and re. It would also use blasp and muscle. So they should be installed in order to get a good running.
+
+For the execution of the programme you should itroduce the file which contains the sequences you want to analyse and the genbanks you want to use in the folder downloaded.Then, in command line, you should write python main.py followed by first, the name of the file that contains the sequence(s) and then the name of the genbank(s).  
